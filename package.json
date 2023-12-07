@@ -1,0 +1,25 @@
+{
+  "name": "test-driven-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testing-practice.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aewurm98/Odin-Project-Test-Driven-Development.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aewurm98/Odin-Project-Test-Driven-Development/issues"
+  },
+  "homepage": "https://github.com/aewurm98/Odin-Project-Test-Driven-Development#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.5",
+    "@babel/preset-env": "^7.23.5",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}

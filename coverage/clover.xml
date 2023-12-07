@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1701977212168" clover="3.2.0">
+  <project timestamp="1701977212168" name="All files">
+    <metrics statements="30" coveredstatements="30" conditionals="8" coveredconditionals="8" methods="11" coveredmethods="11" elements="49" coveredelements="49" complexity="0" loc="30" ncloc="30" packages="1" files="2" classes="2"/>
+    <file name="sum.js" path="/Volumes/Development/Testing/Odin_Project_Javascript_Projects/test-driven-development/sum.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="testing-practice.js" path="/Volumes/Development/Testing/Odin_Project_Javascript_Projects/test-driven-development/testing-practice.js">
+      <metrics statements="28" coveredstatements="28" conditionals="8" coveredconditionals="8" methods="10" coveredmethods="10"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="4" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="26" count="4" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="30" count="3" type="stmt"/>
+      <line num="31" count="3" type="stmt"/>
+      <line num="32" count="16" type="stmt"/>
+      <line num="33" count="16" type="cond" truecount="4" falsecount="0"/>
+      <line num="34" count="6" type="stmt"/>
+      <line num="35" count="10" type="cond" truecount="4" falsecount="0"/>
+      <line num="36" count="9" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="41" count="3" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="45" count="4" type="stmt"/>
+      <line num="46" count="20" type="stmt"/>
+      <line num="51" count="4" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
